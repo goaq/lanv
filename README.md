@@ -13,6 +13,8 @@ A service implemented by Go to provide LAN video playback
 页面使用原生js，不需要编译
 The page uses native js and does not need to be compiled
 
+https://github.com/goaq/lanv/releases/tag/release
+
 ###配置文件###
 
 ###Configuration file###

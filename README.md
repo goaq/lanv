@@ -3,7 +3,7 @@
 
 使用go实现的提供局域网视频播放的服务
 A service implemented by Go to provide LAN video playback
-![1236173455430](https://user-images.githubusercontent.com/45125070/209532691-fc1ea87e-a023-42c3-a1d7-a45d4df542b1.jpg)
+![1236173455430](https://user-images.githubusercontent.com/45125070/209532915-653cc16e-7427-49dc-b7c2-d47bf1d525a4.jpg)
 
 
 ###编译和运行###

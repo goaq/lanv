@@ -1,12 +1,22 @@
-###编译和运行
-###Compile and run
+
+#lan video service#
+
+使用go实现的提供局域网视频播放的服务
+A service implemented by Go to provide LAN video playback
+
+###编译和运行###
+
+###Compile and run###
+
 ```go build . ```
 ```go run .```
 页面使用原生js，不需要编译
 The page uses native js and does not need to be compiled
 
-###配置文件
-###Configuration file
+###配置文件###
+
+###Configuration file###
+
 直接使用```lanv```命令，将加载lanv.ini，```-ini```选项会加载指定的ini配置文件
 Using the ```lanv``` command directly, the lanv.ini will be loaded, and the ```-ini``` option will load the specified ini configuration file
 

@@ -1,5 +1,5 @@
 
-#lan video service#
+#lan video service
 
 使用go实现的提供局域网视频播放的服务
 A service implemented by Go to provide LAN video playback

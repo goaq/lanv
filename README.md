@@ -1,14 +1,14 @@
 
-#lan video service
+# lan video service
 
 使用go实现的提供局域网视频播放的服务
 A service implemented by Go to provide LAN video playback
 ![1236173455430](https://user-images.githubusercontent.com/45125070/209532915-653cc16e-7427-49dc-b7c2-d47bf1d525a4.jpg)
 
 
-###编译和运行
+## 编译和运行
 
-###Compile and run
+## Compile and run
 
 ```go build . ```
 ```go run .```
@@ -17,9 +17,9 @@ The page uses native js and does not need to be compiled
 
 https://github.com/goaq/lanv/releases/tag/release
 
-###配置文件
+## 配置文件
 
-###Configuration file
+## Configuration file
 
 直接使用```lanv```命令，将加载lanv.ini，```-ini```选项会加载指定的ini配置文件
 Using the ```lanv``` command directly, the lanv.ini will be loaded, and the ```-ini``` option will load the specified ini configuration file

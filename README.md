@@ -1,8 +1,8 @@
 
 # lan video service
 
-使用go实现的提供局域网视频播放的服务
-A service implemented by Go to provide LAN video playback
+使用go实现的提供局域网视频播放的服务  
+A service implemented by Go to provide LAN video playback  
 ![1236173455430](https://user-images.githubusercontent.com/45125070/209532915-653cc16e-7427-49dc-b7c2-d47bf1d525a4.jpg)
 
 
@@ -10,18 +10,18 @@ A service implemented by Go to provide LAN video playback
 
 ## Compile and run
 
-```go build . ```
-```go run .```
-页面使用原生js，不需要编译
+```go build . ```  
+```go run .```  
+页面使用原生js，不需要编译  
 The page uses native js and does not need to be compiled
 
-https://github.com/goaq/lanv/releases/tag/release
+https://github.com/goaq/lanv/releases/tag/release  
 
 ## 配置文件
 
 ## Configuration file
 
-直接使用```lanv```命令，将加载lanv.ini，```-ini```选项会加载指定的ini配置文件
+直接使用```lanv```命令，将加载lanv.ini，```-ini```选项会加载指定的ini配置文件  
 Using the ```lanv``` command directly, the lanv.ini will be loaded, and the ```-ini``` option will load the specified ini configuration file
 
 ```
@@ -43,6 +43,6 @@ avi=0
 mp3=1
 
 ```
-```paths```中配置名称和路径，```Root```作为名称将在根路径下展开目录
+```paths```中配置名称和路径，```Root```作为名称将在根路径下展开目录  
 The name and path are configured in ```paths```, and ```Root``` as the name will expand the directory under the root path
 
